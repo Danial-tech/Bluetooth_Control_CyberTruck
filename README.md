@@ -26,5 +26,5 @@ Software for Arduino Uno-based remote controlled car together with a Arduino Nan
 
 ### Final car build
 <img src="doc/img/car+front.jpeg" width="25%" alt="car_front">
-<img src="doc/img/car_inside.jpg" width="21%" alt="car_inside">
-<img src="doc/img/car_outside1.jpg" width="21%" alt="car_outside">
+<img src="doc/img/car_inside.jpeg" width="21%" alt="car_inside">
+<img src="doc/img/car_outside1.jpeg" width="21%" alt="car_outside">
